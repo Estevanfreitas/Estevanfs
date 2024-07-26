@@ -3,7 +3,7 @@
 
 [![LinkinDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estevan-freitas-506294215/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=Estevanfs&hide=contribs,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estevanfs&hide_progress=true)
 
 ### Tecnologias que eu uso no meu dia 
